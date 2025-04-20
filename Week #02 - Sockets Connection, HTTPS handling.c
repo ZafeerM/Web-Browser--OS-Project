@@ -4,10 +4,12 @@
 #include <unistd.h>
 #include <netdb.h>
 #include <sys/socket.h>
-#include <arpa/iasdasdasnet.h>
+#include <arpa/inet.h>
+
 
 int main()
 {
+    
     // 1- URL input (can be from terminal too)
     char url[256];
     printf("Enter a string: ");
