@@ -2,13 +2,13 @@
 
 This repository contains the weekly progress and development logs for our semester project: **a real-time web browser built in the C programming language**.
 
-## 🚀 Project Overview
+## Project Overview
 
 Our goal is to build a lightweight, real-time web browser in C that can fetch and display basic web content using low-level networking and system programming concepts.
 
 ---
 
-## 🛠️ Technologies & Concepts
+## Technologies & Concepts
 
 - **C Programming**
 - **Sockets & Networking**
@@ -19,7 +19,7 @@ Our goal is to build a lightweight, real-time web browser in C that can fetch an
 
 ---
 
-## 📅 Weekly Progress
+## Weekly Progress
 
 | Week | Milestone / Task Completed | Description |
 |------|----------------------------|-------------|
@@ -31,11 +31,11 @@ Our goal is to build a lightweight, real-time web browser in C that can fetch an
 | 6    | Basic Renderer             | Console-based display of parsed HTML |
 | ...  | ...                        | More updates to follow |
 
-> 🔁 This table will be updated every week as we make progress.
+> This table will be updated every week as we make progress.
 
 ---
 
-## 👨‍💻 Contributors
+## Contributors
 
 - Zafeer Mahmood     23K 0656
 - Muhammad Saad Qazi 23K 0670
@@ -44,13 +44,13 @@ Our goal is to build a lightweight, real-time web browser in C that can fetch an
 
 ---
 
-## 📌 Note
+## Note
 
 This project is part of our Operating Systems semester project. Contributions and suggestions are welcome!
 
 ---
 
-## 🧠 Future Goals
+## Future Goals
 
 - Add GUI using GTK or similar C libraries  
 - Implement advanced rendering (CSS support)  
@@ -58,7 +58,7 @@ This project is part of our Operating Systems semester project. Contributions an
 
 ---
 
-## 📬 Contact
+## Contact
 
 For any queries or feedback, reach out via the Issues tab or contact us directly!
 Email: zafeermahmood04@gmail.com
