@@ -8,7 +8,6 @@
 
 int main()
 {
-    printf("heloo World!! Kumail here\n");
     // 1- URL input (can be from terminal too)
     char url[256];
     printf("Enter a string: ");
