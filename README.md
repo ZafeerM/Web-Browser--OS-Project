@@ -29,7 +29,8 @@ Our goal is to build a lightweight, real-time web browser in C that can fetch an
 | 4    | HTML Parsing (basic)       | Started parsing `<html>`, `<head>`, and `<body>` elements |
 | 5    | Real-time Features         | Integrated multithreading for responsive fetching |
 | 6    | Basic Renderer             | Console-based display of parsed HTML |
-| ...  | ...                        | More updates to follow |
+| 7    | Basic GUI                  | Console-based display of parsed HTML |
+| 8    | Combining                  | Making Sure everything runs smoothly |
 
 > This table will be updated every week as we make progress.
 
